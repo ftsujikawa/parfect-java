@@ -1,0 +1,36 @@
+{
+  // IntelliSense を使用して利用可能な属性を学べます。
+  // 既存の属性の説明をホバーして表示します。
+  // 詳細情報は次を確認してください: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - Book",
+      "request": "launch",
+      "mainClass": "Chap02.Book",
+      "projectName": "parfect-java_40fa64a0"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - StringBuilderTest",
+      "request": "launch",
+      "mainClass": "Chap02.StringBuilderTest",
+      "projectName": "parfect-java_40fa64a0"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch) - Current File",
+      "request": "launch",
+      "mainClass": "${file}",
+      "args": "'\"bill joy\" <bill.joy@x-sun.com>'"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-StringTest<parfect-java_40fa64a0>",
+      "request": "launch",
+      "mainClass": "Chap02.StringTest",
+      "projectName": "parfect-java_40fa64a0"
+    }
+  ]
+}
